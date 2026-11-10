@@ -1,0 +1,29 @@
+{
+  "name": "studyspot-cafe",
+  "version": "1.0.0",
+  "description": "BDF Group Assignment – StudySpot Cafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kandanuruvarshitha-svg/StudySpot-Cafe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kandanuruvarshitha-svg/StudySpot-Cafe/issues"
+  },
+  "homepage": "https://github.com/kandanuruvarshitha-svg/StudySpot-Cafe#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
